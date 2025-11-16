@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Tab to Window/Popup - Keyboard Shortcut",
+  "name": "tabToWindow",
   "short_name": "Tab to Window",
   "version": "3.3.3",
   "author": "Arthur Carabott",
